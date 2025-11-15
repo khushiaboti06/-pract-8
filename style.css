@@ -1,0 +1,20 @@
+/* Custom colors for Marwadi University theme */
+.bg-maroon {
+  background-color: #7D1C4A !important;
+}
+
+.bg-pink {
+  background-color: #E195AB !important;
+}
+
+.text-maroon {
+  color: #7D1C4A !important;
+}
+
+/* Navbar hover effect */
+.navbar .nav-link:hover {
+  text-decoration: underline;
+}
+.navbar-nav .nav-item.dropdown {
+  justify-content: end; /* Pushes the bell to the right */
+}
